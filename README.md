@@ -42,9 +42,9 @@
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div><br/>
 
-<table>
+<!-- <table>
   <tr>
     <td></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thapasijan171&show_icons=true&theme=dark&locale=en&layout=compact" alt="Sijan Thapa" /></td>
   </tr>
-</table>
+</table> -->
