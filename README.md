@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Dynamic Website**
 
-- 📝 I regularly write articles on [https://www.facebook.com/sijan.thapa.98284](Facebook)
+- 📝 I regularly write articles on Sijan Lamichhane Magar - Facebook
 
 - 💬 Ask me about **React , JavaScript, Html, CSS, Express & other.**
 
