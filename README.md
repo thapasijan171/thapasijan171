@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sijan Thapa</h1>
-<h3 align="center">A passionate Full-Stack Web developer from Nepal</h3>
+<h3 align="center">A passionate FrontEnd developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thapasijan171&label=Profile%20views&color=0e75b6&style=flat" alt="thapasijan171" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 🤝 I’m looking for help with **Dynamic Website**
+- 🤝 I’m looking for help with **ThreeJS**
 
 - 📝 I regularly write articles on Sijan Lamichhane Magar - Facebook
 
