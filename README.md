@@ -1,46 +1,167 @@
-<h1 align="center">Hi 👋, I'm Sijan Thapa</h1>
-<h3 align="center">A passionate FrontEnd developer from Nepal</h3>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&height=18&width=340&vCenter=true&lines=Welcome+To+My+GITHUB+Profile..." > </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thapasijan171&label=Profile%20views&color=0e75b6&style=flat" alt="thapasijan171" /> </p>
+<p align="center"><img alt="Coding" width="130" src="https://media.tenor.com/cc-T0Kgd5ugAAAAi/pikapikapika.gif"></p>
 
-- 🌱 I’m currently learning **MERN Stack**
+<h1 align="center">Hi 👋 there, I'm Sijan Thapa</h1>
 
-- 🤝 I’m looking for help with **ThreeJS**
+<p align="center">🚀 Hello it’s me Sijan, age of 17. Next.js developer passionate about coding and innovation. I loves traveling, exploring new places, and finding inspiration for new projects. I am driven by the desire to bring his creative ideas to life through code. 🚀</p>
 
-- 📝 I regularly write articles on Sijan Lamichhane Magar - Facebook
-
-- 💬 Ask me about **React , JavaScript, Html, CSS, Express & other.**
-
-- 📫 How to reach me **thapasijan171@gmail.com**
-
+<h3 align="center">📫 How to reach me:</h3>
 <p align="center">
-   <a href="https://www.facebook.com/sijan.thapa.98284" target="_blank"><img src="https://img.shields.io/badge/-Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=ff3c74"></a>
-   <a href="https://discord.gg/jwGRprex4C" target="_blank"><img src="https://img.shields.io/badge/-Discord-0D1117?style=for-the-badge&logo=discord&logoColor=ff3c74"></a>
-   <a href="mailto:thapasijan171@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=ff3c74"></a>
+  <a href="mailto:thapasijan171@gmail.com">thapasijan171@gmail.com</a> |
+  <a href="https://www.leetcode.com/thapasijan171">Leetcode</a> |
+  <a href="https://linkedin.com/in/sijanthapa">LinkedIn</a>
 </p>
 
----
+- 🌱 I’m currently learning **NextJS, ThreeJS.**
 
-```console
-thapasijan171@github:~$ ./welcome.sh
-```
+- 🤝 I’m looking for help with **web development projects.**
 
----
+- 💬 Ask me about ** ThreeJS, TypeScript, NextJS, TailwindCSS, PostgreSQL, AWS, Docker**
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=thapasijan171&theme=dark-smoky&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=FF3C74&currStreakNum=FFFFFF&dates=FF3C74&sideLabels=FFFFFF&fire=FF3C74&sideNums=FFFFFF&currStreakLabel=62C4FF&border=FF3C74"/>
-</div>
 
-<div>
-<!--     <a href="#"><img alt="Sijan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=thapasijan171&custom_title=tux%27s%20Contribution%20Graph&bg_color=0D1117&color=ff3c74&line=FFFFFF&point=ff3c74&hide_border=true" /></a>
-<div>  -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sijanthapa" target="blank"><img align="center" src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png" alt="iruka" height="36" width="40"></a>
+<a href="https://www.instagram.com/sijanthapa171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iruka" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<table>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.python.org/">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="40" height="40" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="40" />
+      <br>Java
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
+      <br>Github
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="css" />
+      <br>TailwindCSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=redux" width="40" height="40" alt="bootstrap" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=next"width="40" height="40" alt="jQuery" />
+      <br>Next
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bun"width="40" height="40" alt="jQuery" />
+      <br>Bun
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express"width="40" height="40" alt="jQuery" />
+      <br>Express
+    </td>
+  </tr>
+ <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+      </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=arch" width="40" height="40" alt="VsCode" />
+      <br>Arch
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cloudflare" width="40" height="40" alt="PostgreSQL" />
+      <br>CloudFlare
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=appwrite" width="40" height="40" alt="tailwind" />
+      <br>Appwrite
+    </td>
+  <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" height="40" alt="docker" />
+      <br>Docker
+    </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman"width="40" height="40" alt="jQuery" />
+      <br>Postman
+    </td>
+ </tr>
+</table>
+<br><br>
+</table>
 
-### 🎧 Spotify Playing
+<img src="https://media.tenor.com/tQCbROIO5cQAAAAi/pikachu-pokemon.gif" width="90" style="display: block; margin: 0 auto;">
 
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=irvd4a80l4m2v7k2gy3fct4j5&cover_image=true&theme=novatorem&bar_color=ff3c74&bar_color_cover=false)
+<b>My GitHub Stats</b>
 
----
+<p align="center">
+  <a href="https://github.com/thapasijan171">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thapasijan171&theme=radical&border=7F3FBF&background=0D1117" alt="Iruka's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/thapasijan171">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thapasijan171&theme=radical" alt="Iruka's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/thapasijan171"><img alt="Iruka's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=thapasijan171&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/thapasijan171"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=thapasijan171&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+<br><br>
+
+<img src="https://media.tenor.com/F2Dqh4ytF9UAAAAi/pikapikapika.gif" width="500px" style="display: block; margin: 0 auto;">
+
