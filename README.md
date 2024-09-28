@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&height=18&width=340&vCenter=true&lines=Welcome+To+My+GITHUB+Profile..." > </h1>
 
@@ -142,4 +143,9 @@
 
 <img src="https://media.tenor.com/tQCbROIO5cQAAAAi/pikachu-pokemon.gif" width="90" style="display: block; margin: 0 auto;">
 
-<p align="center"><img src="https://media.tenor.com/F2Dqh4ytF9UAAAAi/pikapikapika.gif" width="500px" style="display: block; margin: 0 auto;"></p>
+-->
+
+![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Uxie09%20&text2=💖%20A%20Passionate%20web%20developer&width=900&height=400)
+
+
+<p align="center"><img src="https://media.tenor.com/F2Dqh4ytF9UAAAAi/pikapikapika.gif" width="400px" style="display: block; margin: 0 auto;"></p>
