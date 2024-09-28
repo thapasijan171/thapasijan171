@@ -142,10 +142,10 @@
 </table>
 
 <img src="https://media.tenor.com/tQCbROIO5cQAAAAi/pikachu-pokemon.gif" width="90" style="display: block; margin: 0 auto;">
+<p align="center"><img src="https://media.tenor.com/F2Dqh4ytF9UAAAAi/pikapikapika.gif" width="400px" style="display: block; margin: 0 auto;"></p>
 
 -->
 
 ![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=SIJAN%20&text2=💖%20A%20Passionate%20web%20developer&width=900&height=400)
 
 
-<p align="center"><img src="https://media.tenor.com/F2Dqh4ytF9UAAAAi/pikapikapika.gif" width="400px" style="display: block; margin: 0 auto;"></p>
